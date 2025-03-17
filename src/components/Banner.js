@@ -58,31 +58,24 @@ export const Banner = () => {
             </h1>
             <p>
               With a passion for unraveling patterns hidden within data, I
-              thrive on turning raw numbers into compelling narratives. Just as
-              a well-brewed cup of coffee awakens the senses, I find
-              exhilaration in extracting insights from complex datasets—whether
-              through SQL, Python, Power BI, or Tableau. Each dataset tells a
-              story, and I take pride in crafting it with precision and clarity.{" "}
-              <br />
-              Pursuing a Bachelor’s in Computer Science Engineering, I’ve worked
-              on projects like Netflix Data Analysis, Stock Market Performance
-              Analysis, and Customer Satisfaction Prediction, where I explored
-              shifting trends, modeled user behavior, and transformed insights
-              into interactive visualizations. My expertise lies in data
-              wrangling, exploratory analysis, and intuitive dashboard design,
-              turning raw numbers into something as layered and rich as an aged
-              manuscript.
-              <br />
-              Beyond analytics, I have a deep-rooted passion for Content
-              Strategy and SEO, where I navigate the ever-evolving landscape of
-              digital presence. From SEO-driven content creation to audience
-              engagement strategies, I help brands craft stories that resonate.
-              I also enjoy Frontend Web Development, designing interfaces that
-              are as elegant as a vintage book cover—structured, timeless, and
-              functional. <br />I believe that data, like literature, holds
-              profound meaning—waiting for the right mind to interpret it. If
-              you share a love for insightful storytelling, thoughtful strategy,
-              or simply a good cup of coffee, let's connect.
+              thrive on transforming raw numbers into meaningful narratives.
+              Just as a well-brewed coffee awakens the senses, I find
+              exhilaration in extracting insights from complex datasets using
+              SQL, Python, Power BI, and Tableau. Pursuing a Bachelor’s in
+              Computer Science Engineering, I’ve worked on projects like Netflix
+              Data Analysis, Stock Market Performance Analysis, and Customer
+              Satisfaction Prediction, exploring trends, modeling user behavior,
+              and designing interactive dashboards. Beyond analytics, my
+              expertise extends to Content Strategy and SEO, where I craft
+              digital narratives that resonate, blending storytelling with
+              data-driven insights. I also have experience in Frontend Web
+              Development, creating interfaces that are structured, timeless,
+              and functional. With a deep appreciation for well-crafted
+              stories—whether in literature, data, or design—I believe that the
+              right interpretation can turn information into something truly
+              powerful. If you share a love for insightful storytelling,
+              thoughtful strategy, or simply a good cup of coffee, let’s
+              connect.
             </p>
             <button onClick={() => console.log("connect")}>
               let's connect <ArrowRightCircle size={25} />
